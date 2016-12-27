@@ -6,6 +6,9 @@ public static void main(String[] args) {
 	   String second = new String("first");
 	   "first".concat("second");
 	   
+	   //please add a comment
+	   //adding author comment
+	   System.out.println("Hello I am Srinadh writing this application");
 	   //added a sop statement
 	   System.out.println("this is my application");
 	  
