@@ -5,6 +5,11 @@ public static void main(String[] args) {
 	String first = "first";
 	   String second = new String("first");
 	   "first".concat("second");
+	   
+	   //added a sop statement
+	   System.out.println("this is my application");
+	   
+	   
 	   System.out.println(first.equals(second));
 	   System.out.println(first == second);
 	   System.out.println(first.equals("firstsecond"));
