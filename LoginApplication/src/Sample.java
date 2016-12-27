@@ -10,6 +10,7 @@ public static void main(String[] args) {
 	   System.out.println("this is my application");
 	  
 	   //test 1
+	   //test 2
 	   System.out.println(first.equals(second));
 	   System.out.println(first == second);
 	   System.out.println(first.equals("firstsecond"));
