@@ -6,7 +6,7 @@ public static void main(String[] args) {
 	   String second = new String("first");
 	   "first".concat("second");
 	   
-	   //Hello I am Srinadh
+	   //Hello I am Srinadhs
 	   //please add a comment
 	   //adding author comment
 	   System.out.println("Hello I am Srinadh writing this application");
