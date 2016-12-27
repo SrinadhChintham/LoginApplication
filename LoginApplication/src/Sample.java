@@ -8,8 +8,8 @@ public static void main(String[] args) {
 	   
 	   //added a sop statement
 	   System.out.println("this is my application");
-	   
-	   
+	  
+	   //test 1
 	   System.out.println(first.equals(second));
 	   System.out.println(first == second);
 	   System.out.println(first.equals("firstsecond"));
